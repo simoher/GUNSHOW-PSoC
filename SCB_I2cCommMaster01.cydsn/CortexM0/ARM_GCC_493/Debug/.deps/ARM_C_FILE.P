@@ -1,0 +1,152 @@
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/Cm0Start.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/Cm0Start.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/cyapicallbacks.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/Cm0Start.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/cyapicallbacks.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/CyFlash.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyFlash.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyFlash.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyFlash.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/CyLFClk.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/CyLib.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyFlash.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PINS.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_PVT.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PINS.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PVT.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_BOOT.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_BOOT.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_BOOT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PINS.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_BOOT.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_BOOT.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_I2C.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PINS.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_I2C_BOOT.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_BOOT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_BOOT.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PINS.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_BOOT.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_I2C_INT.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_INT.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PINS.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/cyapicallbacks.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_INT.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_I2C_MASTER.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_MASTER.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PINS.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_MASTER.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_PM.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_I2C_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PINS.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PM.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_PM.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_SCBCLK.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCBCLK.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_SCB_IRQ.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCB_IRQ.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCB_IRQ.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/cyapicallbacks.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCB_IRQ.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_SCB_IRQ.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_scl.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_scl_PM.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_PM.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_scl_PM.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_sda.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/I2CM_sda_PM.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_PM.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/I2CM_sda_PM.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/LED_GREEN.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN_aliases.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/LED_GREEN_PM.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN_PM.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_GREEN_PM.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/LED_RED.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED_aliases.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/LED_RED_PM.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED_PM.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/LED_RED_PM.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/cyPm.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyPm.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyPm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyPm.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/cyfitter_cfg.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/cymetadata.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cymetadata.c C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cymetadata.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/CortexM0/ARM_GCC_493/Debug/cyutils.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cytypes.h C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyutils.c 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommMaster01.cydsn/Generated_Source/PSoC4/cyutils.c : 
+

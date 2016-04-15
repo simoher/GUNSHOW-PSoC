@@ -1,0 +1,72 @@
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/CortexM0/ARM_GCC_493/Debug/main.o : C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/CyFlash.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/CyLib.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_BOOT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_I2C.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_I2C_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_PINS.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_PVT.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_SCBCLK.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_SCB_IRQ.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_scl.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_scl_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_sda.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_sda_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_BLUE.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_BLUE_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_GREEN.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_GREEN_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_RED.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_RED_aliases.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/core_cm0.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/core_cmFunc.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/core_cmInstr.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cyPm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cypins.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cytypes.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/project.h C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/main.c C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/main.h 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_BOOT.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_I2C.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_I2C_PVT.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_PINS.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_PVT.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_SCBCLK.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_SCB_IRQ.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_scl.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_scl_aliases.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_sda.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/I2CS_sda_aliases.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_BLUE.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_BLUE_aliases.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_GREEN.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_GREEN_aliases.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_RED.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/LED_RED_aliases.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/main.c : 
+
+C:/projekts/Gunshow_PSoC/SCB_I2cCommSlave01.cydsn/main.h : 
+
